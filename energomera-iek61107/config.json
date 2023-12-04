@@ -1,6 +1,6 @@
 {
   "name": "Energomera",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "slug": "energomera-iek61107",
   "description": "Чтение данных со счетчика Энергомера по протоколу iek61107",
   "startup": "once",
