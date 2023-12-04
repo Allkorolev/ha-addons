@@ -256,7 +256,7 @@ def device_loop():
 
         # sleep
         time_sleep = Options["time_sleep"]
-        time.sleep(10)
+        time.sleep(20)
 
 
 
