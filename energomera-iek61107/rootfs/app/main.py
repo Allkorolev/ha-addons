@@ -255,8 +255,8 @@ def device_loop():
                 sendStates(key, val, itm)
 
         # sleep
-        time.sleep = Options["time_sleep"]
-        #time.sleep(20)
+        #time.sleep = Options["time_sleep"]
+        time.sleep(5)
 
 
 
