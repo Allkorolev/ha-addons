@@ -1,6 +1,6 @@
 {
   "name": "Energomera",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "slug": "energomera-iek61107",
   "description": "Чтение данных со счетчика Энергомера по протоколу iek61107",
   "startup": "once",
@@ -59,6 +59,6 @@
     },
     "host_ip":  "str",
     "auth_key":  "str",
-	"time_sleep": "int"
+    "time_sleep": "int"
   }
 }
